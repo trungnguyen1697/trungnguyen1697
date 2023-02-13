@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trungnguyen1697
 - 👀 I’m interested in ... .NET
-- 🌱 I’m currently learning ... Nodejs, Docker,...
+- 🌱 I’m currently learning ... Golang, Docker, Kubernetes, AWS, Azure,...
 - 📫 trungnguyen.1697@gmail.com
 
 <!---

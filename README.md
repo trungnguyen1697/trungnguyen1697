@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trungnguyen1697
-- 👀 I’m interested in ... .NET
-- 🌱 I’m currently learning ... Golang, Docker, Kubernetes, AWS, Azure,...
+- 👯 I'm currently working for GoldenGate Group company.
+- 👀 I’m interested in ... .NET, microservices
 - 📫 trungnguyen.1697@gmail.com
 
 <!---
